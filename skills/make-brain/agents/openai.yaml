@@ -1,0 +1,5 @@
+interface:
+  display_name: "Make Brain"
+  short_description: "Start or continue an expert brain in brains-internal"
+policy:
+  allow_implicit_invocation: false

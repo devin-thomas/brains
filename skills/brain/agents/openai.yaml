@@ -1,0 +1,5 @@
+interface:
+  display_name: "Brain"
+  short_description: "Ask an expert brain or a brain team, with cited answers"
+policy:
+  allow_implicit_invocation: true
