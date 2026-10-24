@@ -1,0 +1,5 @@
+interface:
+  display_name: "Deep Modules"
+  short_description: "Find shallow modules and deepen them, Matt Pocock style"
+policy:
+  allow_implicit_invocation: true
