@@ -1,7 +1,6 @@
 ---
 name: make-brain
 description: Start or continue building an expert brain for a person in brains-internal. Use only when the user invokes /make-brain.
-disable-model-invocation: true
 ---
 
 # Make brain
